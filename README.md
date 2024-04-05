@@ -1,2 +1,1 @@
-# HaleyCatPawzSnapFilters
- 
+# camera_kit_demo
